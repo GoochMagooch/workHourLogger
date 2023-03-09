@@ -2,6 +2,11 @@ body {
     background-color: #69747C;
 }
 
+.dadnry {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 li {
     list-style: none;
 }
